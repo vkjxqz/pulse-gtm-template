@@ -1,0 +1,5 @@
+homepage: "https://github.com/vkjxqz/pulse-gtm-template"
+documentation: "https://github.com/vkjxqz/pulse-gtm-template"
+versions:
+  - sha: 12c50f72a1e625215a64f0a9c2067871831d057c
+    changeNotes: Initial release.

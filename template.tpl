@@ -19,6 +19,9 @@ ___INFO___
     "displayName": ""
   },
   "description": "Tag for pulse events",
+  "categories": [
+    "ANALYTICS"
+  ],
   "containerContexts": [
     "WEB"
   ]
