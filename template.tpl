@@ -18,7 +18,7 @@ ___INFO___
     "id": "brand_dummy",
     "displayName": ""
   },
-  "description": "Tag for pulse events",
+  "description": "This is an unofficial template for pulse tracking",
   "categories": [
     "ANALYTICS"
   ],
